@@ -111,8 +111,9 @@
 
 ### 💡 Daily Developer Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" style="max-width: 100%; height: auto;" />
 </p>
+
 
 ---
 
