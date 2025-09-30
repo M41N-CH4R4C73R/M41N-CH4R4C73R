@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79D&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dada;Cybersecurity+Analyst;Penetration+Tester;Developer+of+Privacy+Tools;Automation+Scripts+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CC7A&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dada;Cybersecurity+Analyst;Penetration+Tester;Developer+of+Privacy+Tools;Automation+Scripts+Builder" alt="Typing SVG" />
 </h1>
 
 ---
