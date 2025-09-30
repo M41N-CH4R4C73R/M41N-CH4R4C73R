@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79D&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dada;Cybersecurity+Analyst+%7C+Penetration+Tester;Developer+of+Privacy+Tools+&+Automation+Scripts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79D&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dada;Cybersecurity+Analyst;Penetration+Tester;Developer+of+Privacy+Tools;Automation+Scripts+Builder" alt="Typing SVG" />
 </h1>
 
 ---
@@ -18,7 +18,7 @@
 ### 💻 Tech Stack
 
 **Languages & Frameworks**  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -26,14 +26,14 @@
 </p>
 
 **Cybersecurity & Tools**  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 **Platforms & DevOps**  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -91,18 +91,17 @@
 
 ### 🛡️ Security Badges
 
-<p>
+<p align="center">
   <a href="https://tryhackme.com/p/M41NxxCH4R4C73R<img width="450" height="46" alt="image" src="https://github.com/user-attachments/assets/6395b619-3189-4461-bfcc-a972c087026e" />
 ">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/M41NxxCH4R4C73R<img width="450" height="46" alt="image" src="https://github.com/user-attachments/assets/b83ed95e-0c79-4712-a863-2e84b3eeaa53" />
-.png" alt="TryHackMe Badge" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4203095" style='border:none;'></iframe>
   </a>
 </p>
 
 ---
 
 ### 🌍 Connect With Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dada-lateef"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="dadalateef.com"><img src="https://img.shields.io/badge/Portfolio-%23FF4088.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
