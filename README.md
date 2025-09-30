@@ -93,8 +93,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/M41NxxCH4R4C73R<img width="450" height="46" alt="image" src="https://github.com/user-attachments/assets/6395b619-3189-4461-bfcc-a972c087026e" />
-">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4203095" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/M41N.CH4R4C73R.png" alt="Your Image Badge" />
   </a>
 </p>
 
@@ -103,7 +102,7 @@
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dada-lateef"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="x.com/iamthe_chaser"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="dadalateef.com"><img src="https://img.shields.io/badge/Portfolio-%23FF4088.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
@@ -111,9 +110,9 @@
 
 ### 💡 Daily Developer Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" style="max-width: 100%; height: auto;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=compact&theme=radical"
+       alt="Dev Quote" width="500" height="270"/>
 </p>
-
 
 ---
 
